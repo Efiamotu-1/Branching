@@ -1,1 +1,2 @@
-alet("na script be this")
+alert("na script be this")
+alet("conflict creator")
